@@ -148,17 +148,6 @@ Ensures correct layout-to-schematic mapping :contentReference[oaicite:3]{index=3
 
 ---
 
-## 📂 Project Structure
-.
-├── Schematic/
-├── Layout/
-├── Simulation/
-├── Results/
-├── Reports/
-
-
----
-
 ## 📌 Key Learnings
 - Domino logic design methodology  
 - Trade-offs between:
@@ -187,5 +176,5 @@ Ensures correct layout-to-schematic mapping :contentReference[oaicite:3]{index=3
 - Abhishek Bhooshan  
 - Kabeer Kundra  
 
---
+---
 
